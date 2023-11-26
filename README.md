@@ -1,4 +1,4 @@
-## 👋
+# 👋
 
 I'm **Christian**, a high-school student passionate about building and breaking software. I use this Github to post projects, CTF write ups & my solutions to programming problems.
 
