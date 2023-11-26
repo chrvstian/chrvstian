@@ -1,16 +1,27 @@
-### Hi there 👋
+### 👋
 
-<!--
-**chrvstian/chrvstian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Christian**, a high-school student passionate about building and breaking software. I use this Github to post projects, CTF write ups & my solutions to programming problems.
 
-Here are some ideas to get you started:
+You can find out more about me [here](https://christiano.sh/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![views](https://komarev.com/ghpvc/?username=chrvstian&style=flat&color=313131&label=views)](https://github.com/chrvstian)
+
+### Languages
+**- Javascript**
+**- Python**
+**- C**
+
+### Interests
+**- Binary & Web Exploitation**
+**- Reverse Engineering-**
+**- Computer Science**
+
+### Misc
+![Christian's github stats](https://github-readme-stats.vercel.app/api?username=chrvstian&show_icons=true&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrvstian&layout=compact)
+
+
+
+
+
+
