@@ -12,6 +12,7 @@ You can find out more about me [here](https://christiano.sh/)
 - **C**
 
 ## Interests
+- **Data Structures & Algorithms**
 - **Binary & Web Exploitation**
 - **Reverse Engineering**
 - **Computer Science**
