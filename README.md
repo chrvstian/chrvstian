@@ -16,6 +16,7 @@ You can find out more about me [here](https://christiano.sh/)
 - **Binary & Web Exploitation**
 - **Reverse Engineering**
 - **Computer Science**
+- **Mathematics**
 
 ## Misc
 ![Christian's github stats](https://github-readme-stats.vercel.app/api?username=chrvstian&show_icons=true&hide_border=true&theme=dark)
