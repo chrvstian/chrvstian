@@ -1,6 +1,8 @@
 # 👋
 
-I'm **Christian**, a high-school student passionate about building and breaking software. I use this Github to post projects, CTF write ups & my solutions to programming problems.
+I'm **Christian**, a high-school student passionate about everything involving computers. My main interests are 
+
+a high-school student passionate about building and breaking software. I use this Github to post projects, CTF write ups & my solutions to programming problems.
 
 You can find out more about me [here](https://christiano.sh/)
 
@@ -12,11 +14,9 @@ You can find out more about me [here](https://christiano.sh/)
 - **C**
 
 ## Interests
-- **Data Structures & Algorithms**
-- **Binary & Web Exploitation**
 - **Reverse Engineering**
 - **Computer Science**
-- **Mathematics**
+- **CyberSecurity**
 
 ## Misc
 ![Christian's github stats](https://github-readme-stats.vercel.app/api?username=chrvstian&show_icons=true&hide_border=true&theme=dark)
