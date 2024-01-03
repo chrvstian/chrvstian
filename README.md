@@ -1,8 +1,6 @@
 # 👋
 
-I'm **Christian**, a high-school student passionate about everything involving computers. My main interests are 
-
-a high-school student passionate about building and breaking software. I use this Github to post projects, CTF write ups & my solutions to programming problems.
+I'm **Christian**, a high-school student passionate about building and breaking software. I use this Github to post projects, CTF write ups & my solutions to programming problems.
 
 You can find out more about me [here](https://christiano.sh/)
 
