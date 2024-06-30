@@ -1,16 +1,20 @@
 ## Hi 👋
-My name is Christian. I'm a self-taught AI researcher & full-stack web developer.
+My name is Christian.
 
-I use this github to store my web-dev & AI projects, as well as my other eclectic interests.
+I'm a self-taught programmer & aspiring AI/ML engineer.
+
+I use this github to store my web dev & AI/ML projects, as well as anything else that interests me.
+
+I also write (sometimes) on my blog. You can check it out [here](https://christiano.bearblog.dev)
 
 # Languages
 - Python - proficient
 - JS - beginner
 
 # Interests
-- Backend development & system design
-- Machine learning & neural networks
+- Machine learning & artificial intelligence
 - Python's internals
+- Tech Startups
 
 # Stats
 <p align="center">
