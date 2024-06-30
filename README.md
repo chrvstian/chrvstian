@@ -4,9 +4,9 @@ My name is Christian.
 
 I'm a self-taught programmer & aspiring AI/ML engineer.
 
-I use this github to store my web dev & AI/ML projects, as well as anything else that interests me.
+I use this github to store my web development & AI/ML projects, as well as other miscellaneous things.
 
-### I also write (sometimes) on my blog. You can check it out [here](https://christiano.bearblog.dev)
+### I also write (sometimes) on my blog. You can check it out [here,](https://christiano.bearblog.dev)
 
 # Languages
 - Python - proficient
